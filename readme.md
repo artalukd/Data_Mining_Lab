@@ -2,7 +2,7 @@
 
 ## Instructor-In-Charge: Dr. Yashvardhan Sharma
 [http://universe.bits-pilani.ac.in/pilani/yash/Profile]
-## Created and Maintained by Arka Talukdar and Ayushman Jain [Teaching Assitants]
+## Created and Maintained by Arka Talukdar and Ayushman Jain [Teaching Assistant]
 
 Download this repository in linux and install the following to get started:
 
