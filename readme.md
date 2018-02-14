@@ -1,5 +1,8 @@
-# Lab sheets in this repository are for Data Mining Course 2nd Semester 2017-18 
-## Created and Maintained by Arka Talukdar and Ayushman Jain
+# Data Mining CS F415, 2nd Semester 2017-18; BITS Pilani, Pilani Campus
+
+## Instructor-In-Charge: Dr. Yashvardhan Sharma
+[http://universe.bits-pilani.ac.in/pilani/yash/Profile]
+## Created and Maintained by Arka Talukdar and Ayushman Jain [Teaching Assitants]
 
 Download this repository in linux and install the following to get started:
 
