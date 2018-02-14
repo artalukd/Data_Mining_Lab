@@ -1,9 +1,15 @@
 # Lab sheets in this repo are for Data Mining Course 
 ## Created and Maintained by Arka Talukdar and Ayushman Jain
 
-Download this repository in linux and used the following commonds to get started:
+Download this repository in linux and use the following commonds to get started:
 
-- Unzip contents
-- Open terminal and change base dir to DM_Lab
-- execute command: source env/bin/activate
-- Now follow the instructions in labsheet and guide concerned 
+Install PIP : https://pip.pypa.io/en/stable/installing/#using-linux-package-managers
+
+You can install the individual libraries we require install in class using pip.
+pip install  package-name
+
+Alternatively you can install Anaconda in your system. Anaconda is a python distribution that comes with a lot of 
+packages required for scientific computing pre-installed. Including our requirements.
+
+https://anaconda.org/anaconda/python
+
