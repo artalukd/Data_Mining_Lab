@@ -1,7 +1,7 @@
-# Lab sheets in this repo are for Data Mining Course 
+# Lab sheets in this repository are for Data Mining Course 2nd Semester 2017-18 
 ## Created and Maintained by Arka Talukdar and Ayushman Jain
 
-Download this repository in linux and use the following commonds to get started:
+Download this repository in linux and install the following to get started:
 
 Install PIP : https://pip.pypa.io/en/stable/installing/#using-linux-package-managers
 
@@ -18,4 +18,9 @@ Alternatively you can install Anaconda in your system. Anaconda is a python dist
 that comes with a lot of packages required for scientific computing pre-installed, including our requirements.
 Install Anaconda from:
 - https://anaconda.org/anaconda/python
+
+## Suggestion to use git
+
+Since this repository would be updated weekly instead of downloading afresh  each time, it is advised to clone this repository in your system.
+- Resource for Git & Github : [https://try.github.io/levels/1/challenges/1] 
 
