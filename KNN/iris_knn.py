@@ -47,7 +47,7 @@ for iclass in range(3):
         if trainset_labels[i] == iclass:
             X[iclass][0].append(trainset_data[i][0])
             X[iclass][1].append(trainset_data[i][1])
-            X[iclass][2].append(sum(trainset_data[i][2:]))
+            X[iclass][2].append((trainset_data[i][2]))
 colours = ("r", "g", "y")
 fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
