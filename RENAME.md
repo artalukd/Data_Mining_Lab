@@ -10,10 +10,10 @@ Install PIP : https://pip.pypa.io/en/stable/installing/#using-linux-package-mana
 
 You can install the individual libraries we require install in class using pip.
 - pip install  package-name
-As of now we are using the following libraries:
+We are using the following libraries:
 - Jupyter Notebbok
 - Pandas
-- Numby [running in background with Pandas And Scikit-Learn ]
+- Numpy 
 - Scikit- learn
 
 
